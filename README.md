@@ -13,5 +13,5 @@ we have contain all record of inventry in record.json file
 
 And one more file for sale which called as sales.json 
 
-this is all pretty much all about my IMS .
+this is pretty much all about my IMS .
 
