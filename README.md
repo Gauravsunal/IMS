@@ -1,5 +1,5 @@
 # IMS
-Inventry Managment System
+Inventry Management System
 
 In this project i have made IMS.ipnyb file which contains all the records of inventry 
 
